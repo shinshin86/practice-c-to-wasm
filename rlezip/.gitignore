@@ -1,0 +1,6 @@
+.DS_Store
+target_directory/
+output.zip
+rlezip.data
+rlezip.js
+rlezip.wasm
